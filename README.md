@@ -12,4 +12,9 @@ Welcome to the Sound Buttons App repository! This web application provides an in
 - Event listeners capture keyboard key presses and execute corresponding functions, extracting the pressed key using `event.key`.
 - `onclick` property implementation for passing the `keyvalue` upon mouse click.
 
+## Hosted Link
+ - https://prathamwate.github.io/DrumKit/
+
+## SnapShot 
+![image](https://github.com/Prathamwate/DrumKit/assets/98683881/0ef646c2-f84d-4778-abce-c295102bde7c)
 
